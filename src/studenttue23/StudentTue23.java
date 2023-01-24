@@ -13,6 +13,7 @@ public class StudentTue23 {
     /**
      * @param args the command line arguments
      */
+    //date 01/24
     private String studentId;
     private String studentName;
 
